@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+form {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    max-width: 300px;
+    text-decoration: line-through;
+}
